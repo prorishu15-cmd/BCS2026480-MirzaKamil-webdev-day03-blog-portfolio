@@ -19,3 +19,13 @@ A beginner-friendly, responsive personal website created for a first-year B.Tech
 ## Run locally
 Open `index.html` in a web browser. No installation or build tools are required.
 
+## Website Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
+### About Page
+![About](screenshots/about.png)
+
+### Blog Page
+![Blog](screenshots/blog.png)
